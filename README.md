@@ -1,6 +1,29 @@
-# Muhammad Dani Noar
+﻿# Muhammad Dani Noar
 
-Information Systems undergraduate at Universitas Andalas, interested in software testing, web development, and data.
+Information Systems undergraduate at **Universitas Andalas**, interested in
+software testing, web development, and data.
+
+I build small, well-tested tools and APIs — the kind of work that turns messy
+manual tasks into something reliable and automatic.
+
+## Projects
+
+Small, complete, and tested projects — each one has automated tests and a
+green CI pipeline.
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [notes-api](https://github.com/muhammaddani/notes-api) | REST API for managing notes: full CRUD, search, pagination, auto-generated docs | Python, FastAPI, SQLAlchemy, SQLite, pytest |
+| [csv-report-cli](https://github.com/muhammaddani/csv-report-cli) | Turns raw sales CSV into a readable summary, with optional Excel export | Python, standard library, pytest |
+| [bugfix-case-study](https://github.com/muhammaddani/bugfix-case-study) | A debugging case study: finding and fixing 4 real bugs, with tests proving each fix | Python, pytest |
+
+## Skills
+
+- **Languages:** Python, SQL
+- **Backend:** FastAPI, SQLAlchemy, REST APIs
+- **Testing:** pytest, test-driven debugging
+- **Data:** CSV processing, data analysis (Dicoding Data Science)
+- **Tools:** Git, GitHub Actions (CI), Linux/Windows
 
 ## Certifications & Training
 
@@ -17,3 +40,7 @@ Information Systems undergraduate at Universitas Andalas, interested in software
 - Career Kickoff: Combining Basic IT Knowledge with Successful Business Strategies, Dicoding Indonesia (Dec 2023)
 - Webinar Kewirausahaan, Entrepreneur Class, BEM KM FTI Universitas Andalas (Mar 2023)
 - Webinar "Step by Step to Start and Develop a Business in Collage", Booster Talk × HMSI Unand (Mar 2023)
+
+## Contact
+
+- GitHub: [@muhammaddani](https://github.com/muhammaddani)
